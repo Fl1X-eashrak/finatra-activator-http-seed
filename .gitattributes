@@ -1,0 +1,11 @@
+# Generated on 2026-11-06
+# Do not edit manually
+src/** linguist-detectable
+src/*.ts linguist-detectable
+Cargo.lock linguist-generated
+
+*.yaml linguist-detectable=false
+public/* linguist-vendored
+
+public/index.html linguist-vendored
+*.jpeg binary
