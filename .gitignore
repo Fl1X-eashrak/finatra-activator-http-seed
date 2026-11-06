@@ -1,0 +1,8 @@
+.DS_Store
+.env
+node_modules/
+.pnpm-store/
+yarn-error.log*
+.cache/
+.env.local
+*.tgz
